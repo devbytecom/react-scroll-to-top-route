@@ -1,4 +1,4 @@
-import ProtectedRoute from './ScrollToTopRoute';
+import ScrollToTopRoute from './ScrollToTopRoute';
 
 describe('<ScrollToTopRoute />', () => {
     it('Something', () => {
