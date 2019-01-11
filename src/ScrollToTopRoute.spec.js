@@ -1,6 +1,6 @@
-import ProtectedRoute from './ProtectedRoute';
+import ProtectedRoute from './ScrollToTopRoute';
 
-describe('<ProtectedRoute />', () => {
+describe('<ScrollToTopRoute />', () => {
     it('Something', () => {
         expect(2).toEqual(2);
     });
