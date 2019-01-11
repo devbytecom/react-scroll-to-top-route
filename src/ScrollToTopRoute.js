@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
 
-class ProtectedRoute extends Component {
+class ScrollToTopRoute extends Component {
     componentDidUpdate() {
         window.scrollTo(0, 0);
     }
@@ -13,4 +13,4 @@ class ProtectedRoute extends Component {
     }
 }
 
-export default ProtectedRoute;
+export default ScrollToTopRoute;
