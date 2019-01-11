@@ -1,6 +1,8 @@
 react-scroll-to-top-route
 ============================
 
+[![Build Status](https://travis-ci.com/devbytecom/react-scroll-to-top-route.svg?branch=master)](https://travis-ci.com/devbytecom/react-scroll-to-top-route)
+
 A ReactJS route component that scrolls users back to the top of the page when navigating around with the react router.
 
 # Example
