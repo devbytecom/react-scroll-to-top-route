@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-to-top-route",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A reactJS component which scrolls user back to top when navigating between routes",
   "main": "./build/index.js",
   "scripts": {
