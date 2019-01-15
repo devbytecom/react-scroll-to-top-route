@@ -1,7 +1,10 @@
 react-scroll-to-top-route
 ============================
 
+[![npm version](https://badge.fury.io/js/react-scroll-to-top-route.svg)](https://badge.fury.io/js/react-scroll-to-top-route)
 [![Build Status](https://travis-ci.com/devbytecom/react-scroll-to-top-route.svg?branch=master)](https://travis-ci.com/devbytecom/react-scroll-to-top-route)
+[![NPM Packages](https://david-dm.org/devbytecom/react-scroll-to-top-route.svg)](https://david-dm.org/devbytecom/react-scroll-to-top-route)
+[![NPM Dev Dependencies](https://david-dm.org/devbytecom/react-scroll-to-top-route/dev-status.svg)](https://david-dm.org/devbytecom/react-scroll-to-top-route?type=dev)
 
 A ReactJS route component that scrolls users back to the top of the page when navigating around with the react router.
 
